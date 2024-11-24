@@ -1,0 +1,3 @@
+[submodule "Sensor_data/accelero_data"]
+	path = Sensor_data/accelero_data
+	url = https://github.com/AeroVisionET/Smart_Salt_DispenserC.git
